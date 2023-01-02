@@ -1,3 +1,2 @@
 # git_test
-no vean...
-hola odin!!!! uwu
+test de git
